@@ -55,3 +55,14 @@ docs/_build/
 
 # PyBuilder
 target/
+#### joe made this: http://goel.io/joe
+
+#####=== Linux ===#####
+*~
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
